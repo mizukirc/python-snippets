@@ -14,7 +14,7 @@ https://docs.python.org/ja/3/library/functions.html
 | bytearray()   | filter()    | issubclass()  | pow()         | super()         |  
 | bytes()       | float()     | iter()        | print()       | tuple()         |  
 | callable()    | format()    | len()         | property()    | type()          |   
-| chr()         | frozenset() | list()        | range()       | vars()          |  
+| chr()         | frozenset() | list()        | [range()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/range_ex.md)       | vars()          |  
 | classmethod() | getattr()   | locals()      | repr()        | zip()           |  
 | compile()     | globals()   | map()         | reversed()    | __import__()    |   
 | complex()     | hasattr()   | max()         | round()       |                 |  
