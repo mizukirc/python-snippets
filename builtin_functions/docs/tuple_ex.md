@@ -7,7 +7,8 @@
 
 ```tuple(a)```
 
-- **a** (list): tuple に変換するリスト．   
+- **a** (list): tuple に変換するリスト．  
+
 **( )** で tuple を作成することも可能．
 
 ### Returns:
