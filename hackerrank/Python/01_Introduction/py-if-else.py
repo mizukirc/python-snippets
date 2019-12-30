@@ -1,5 +1,5 @@
 #!/bin/python3
-# problem: https://www.hackerrank.com/challenges/py-if-else/problem
+# https://www.hackerrank.com/challenges/py-if-else/problem
 
 import math
 import os
