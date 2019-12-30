@@ -32,5 +32,5 @@ set()
 ```
 
 ### Note:
-list や tuple に変換するときは list(), tuple() を使用
+list や tuple に変換するときは list(), tuple() を使用  
 [method list](https://docs.python.org/3.8/library/stdtypes.html#set-types-set-frozenset)
