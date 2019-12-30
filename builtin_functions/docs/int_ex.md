@@ -9,7 +9,7 @@
 ```int(a, base=b)```  
 ```int(a, b)```  
 
-- **a** (optional): 数値あるいは文字列．規定値は0．
+- **a** (int/float/str, optional): 規定値は0．
 
 
 #### Options:
