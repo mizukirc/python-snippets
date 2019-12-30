@@ -13,7 +13,7 @@ https://docs.python.org/ja/3/library/functions.html
 | breakpoint()  | exec()      | isinstance()  | ord()         | sum()           |  
 | bytearray()   | filter()    | issubclass()  | pow()         | super()         |  
 | bytes()       | [float()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/float_ex.md)     | iter()        | print()       | tuple()         |  
-| callable()    | format()    | len()         | property()    | type()          |   
+| callable()    | format()    | len()         | property()    | [type()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/type_ex.md)          |   
 | chr()         | frozenset() | list()        | [range()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/range_ex.md)       | vars()          |  
 | classmethod() | getattr()   | locals()      | repr()        | zip()           |  
 | compile()     | globals()   | map()         | reversed()    | __import__()    |   
