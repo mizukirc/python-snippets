@@ -18,7 +18,7 @@ range object
 ### Example: 
 
 ```python
-# run a loop from 3 to 9
+# run a loop from 3 to 9 with interval of 2
 >> for i in range(3,10,2):
 >>     print(i, end=', ')
 3, 5, 7, 9,
