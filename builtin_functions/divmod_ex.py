@@ -1,14 +1,19 @@
-'''
-[doc: divmod](https://docs.python.org/3/library/functions.html#divmodhttps://docs.python.org/3/library/functions.html#divmod)
+### Documentation:
+[divmod](https://docs.python.org/ja/3/library/functions.html#divmod)
 
-### Syntax
+### Syntax:
 ```divmod(a, b)```
 
-### Returns
-tuple 
-(a // b, a % b)
-(商, 余り)
+### Returns:
+tuple of a and b
+**a**: 商 (a // b)
+**b**: 余り (a % b)
 
 ### Example: 
-'''
-
+```python
+>> a,b = divmod(9,2)
+>> print(a)
+4
+>> print(b)
+1
+```
