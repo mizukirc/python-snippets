@@ -15,5 +15,5 @@ str
 
 ```python
 # get an integer input 
->> n = int(input())
+>>> n = int(input())
 ```

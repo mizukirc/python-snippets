@@ -17,9 +17,9 @@ tuple of 商 (a//b) and 余り(a%b)
 ### Example:
 
 ```python
->> a,b = divmod(9,2)
->> print(a)
+>>> a,b = divmod(9,2)
+>>> print(a)
 4
->> print(b)
+>>> print(b)
 1
 ```

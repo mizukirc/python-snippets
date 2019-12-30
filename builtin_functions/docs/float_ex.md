@@ -16,25 +16,25 @@ float
 ### Example: 
 
 ```python
->> float(3)
+>>> float(3)
 3.0
 
->> float('.689')
+>>> float('.689')
 0.689
 
->> float(5.23e-3)
+>>> float(5.23e-3)
 0.00523
 
->> float('１２.３４')
+>>> float('１２.３４')
 12.34
 
->> float('Inf')
+>>> float('Inf')
 inf
 
->> float('NaN')
+>>> float('NaN')
 nan
 
->> float()
+>>> float()
 0.0
 
 ```
