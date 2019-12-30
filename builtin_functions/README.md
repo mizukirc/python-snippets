@@ -10,7 +10,7 @@ https://docs.python.org/ja/3/library/functions.html
 | ascii()       | [divmod()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/divmod_ex.md)    | id()          | object()      | sorted()        |  
 | bin()         | enumerate() | [input()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/input_ex.md)       | oct()         | staticmethod()  |  
 | bool()        | eval()      | [int()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/int_ex.md)         | open()        | str()           |  
-| breakpoint()  | exec()      | isinstance()  | ord()         | sum()           |  
+| breakpoint()  | exec()      | isinstance()  | ord()         | [sum()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/sum_ex.md)           |  
 | bytearray()   | filter()    | issubclass()  | pow()         | super()         |  
 | bytes()       | [float()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/float_ex.md)     | iter()        | print()       | tuple()         |  
 | callable()    | format()    | len()         | property()    | [type()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/type_ex.md)          |   
