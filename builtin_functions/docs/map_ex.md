@@ -30,8 +30,8 @@ def multiply(x):
 >> list(map(lambda x:x*2, l))
 [2, 4, 6]
 
->> func = lambda x:x*2
->> list(map(func, l))
+>> multiply = lambda x:x*2
+>> list(map(multiply, l))
 [2, 4, 6]
 
 ```
