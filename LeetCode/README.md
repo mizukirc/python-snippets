@@ -10,7 +10,7 @@ LeetCode Solutions implemented in Python.
 
 |  #    |  Category | Title     | Solution  | Note |
 | ----  | ----      | ----      | ----      | ---- |
-|  1    | Array     | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/mizukirc/LeetCode/blob/master/Python/001_TwoSum.py) | 辞書 (dict/hash table) の for ループ処理 |
+|  1    | Array     | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/mizukirc/python-snippets/blob/master/LeetCode/Python/001_TwoSum.py) | 辞書 (dict/hash table) の for ループ処理 |
 |  73   | Matrix    | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python](https://github.com/mizukirc/LeetCode/blob/master/Python/073_SetMatrixZeros.py) | use of [in-place](https://ja.wikipedia.org/wiki/In-place%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0) |
 |  73   |           |           |           |  |
 |  73   |           |           |           |  |
