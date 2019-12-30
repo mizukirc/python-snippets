@@ -19,18 +19,18 @@ range object
 
 ```python
 # run a loop from 3 to 9 with interval of 2
->> for i in range(3,10,2):
->>     print(i, end=', ')
+>>> for i in range(3,10,2):
+>>>     print(i, end=', ')
 3, 5, 7, 9,
 
 # run a loop from 2 to 4
->> for i in range(2,5):
->>     print(i, end=', ')
+>>> for i in range(2,5):
+>>>     print(i, end=', ')
 2, 3, 4,
 
 # run a loop from 0 to 4
->> for i in range(5):
->>     print(i, end=', ')
+>>> for i in range(5):
+>>>     print(i, end=', ')
 0, 1, 2, 3, 4,
 
 ```
