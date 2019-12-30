@@ -55,3 +55,6 @@ True
 'This is a pen'
 ```
 
+### Notes:
+
+[method list](https://docs.python.org/ja/3/tutorial/datastructures.html)
