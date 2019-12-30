@@ -4,7 +4,7 @@ https://docs.python.org/ja/3/library/functions.html
  
 |               |             |               |               |                 |  
 |---            |---          |---            |---            |---              |
-| abs()         | delattr()   | hash()        | memoryview()  | set()           |   
+| abs()         | delattr()   | hash()        | memoryview()  | [set()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/set_ex.md)           |   
 | all()         | dict()      | help()        | min()         | setattr()       |  
 | any()         | dir()       | hex()         | next()        | slice()         |  
 | ascii()       | [divmod()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/divmod_ex.md)    | id()          | object()      | [sorted()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/sorted_ex.md)        |  
