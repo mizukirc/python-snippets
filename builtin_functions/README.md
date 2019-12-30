@@ -5,7 +5,7 @@ https://docs.python.org/ja/3/library/functions.html
 |               |             |               |               |                 |  
 |---            |---          |---            |---            |---              |
 | [abs()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/abs_ex.md)         | delattr()   | hash()        | memoryview()  | [set()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/set_ex.md)           |   
-| all()         | dict()      | help()        | min()         | setattr()       |  
+| all()         | dict()      | help()        | [min()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/min_ex.md)         | setattr()       |  
 | any()         | dir()       | hex()         | next()        | slice()         |  
 | ascii()       | [divmod()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/divmod_ex.md)    | id()          | object()      | [sorted()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/sorted_ex.md)        |  
 | bin()         | enumerate() | [input()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/input_ex.md)       | oct()         | staticmethod()  |  
@@ -17,5 +17,5 @@ https://docs.python.org/ja/3/library/functions.html
 | chr()         | frozenset() | [list()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/list_ex.md)        | [range()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/range_ex.md)       | vars()          |  
 | classmethod() | getattr()   | locals()      | repr()        | zip()           |  
 | compile()     | globals()   | [map()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/map_ex.md)         | reversed()    | __import__()    |   
-| complex()     | hasattr()   | max()         | round()       |                 |  
+| complex()     | hasattr()   | [max()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/max_ex.md)         | round()       |                 |  
 
