@@ -1,7 +1,8 @@
 ## list of Python built-in functions
 https://docs.python.org/ja/3/library/functions.html
 
-
+ 
+| ----          | ----        |  ----         | ----          | ----            |  
 | abs()         | delattr()   | hash()        | memoryview()  | set()           |   
 | all()         | dict()      | help()        | min()         | setattr()       |  
 | any()         | dir()       | hex()         | next()        | slice()         |  
