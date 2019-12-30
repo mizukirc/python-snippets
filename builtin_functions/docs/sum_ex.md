@@ -18,13 +18,13 @@ int/float
 
 ```python
 # returns the sum of a
->> a = (1, 2, 3.5)
->> x = sum(a)
+>>> a = (1, 2, 3.5)
+>>> x = sum(a)
 6.5
 
 # returns the addition of sum(a) and b 
->> a = (1, 2, 3)
->> x = sum(a, 4)
+>>> a = (1, 2, 3)
+>>> x = sum(a, 4)
 10
 
 ```
