@@ -7,11 +7,12 @@
 
 ```divmod(a, b)```
 
+- **a** (int/float)
+- **b** (int/float)
+
 ### Returns:
 
-tuple of a and b  
-- **a**: 商 (a // b)
-- **b**: 余り (a % b)
+tuple of 商 (a//b) and 余り(a%b)
 
 ### Example:
 
