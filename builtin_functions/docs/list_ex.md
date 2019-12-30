@@ -2,13 +2,13 @@
 
 [list](https://docs.python.org/ja/3/library/functions.html#list)  
 [シーケンス型](https://docs.python.org/ja/3/library/stdtypes.html#typesseq)
-複数の要素を含むリスト（各要素は異なる型でもよい）
+複数の順序ありの要素を含むリスト（各要素は異なる型でもよい）
 
 ### Syntax:
 
 ```list([a])```
 
-- **a**: 
+- **a**: any iteratable
 
 **[ ]** でもリストを作成可能．
 
