@@ -1,13 +1,14 @@
 ### Documentation:
 
 [tuple](https://docs.python.org/ja/3/library/functions.html#func-tuple)  
-数値の和
+複数の要素で構成される組（異なるデータ型が含まれていてもよい）
 
 ### Syntax:
 
 ```tuple(a)```
 
-- **a** (list): tuple に変換するリスト．
+- **a** (list): tuple に変換するリスト．   
+**( )** で tuple を作成することも可能．
 
 ### Returns:
 
