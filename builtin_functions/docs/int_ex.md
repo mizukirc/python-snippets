@@ -5,9 +5,9 @@
 
 ### Syntax:
 
-```int([a])```
-```int(a, base=b)```
-```int(a, b)```
+```int([a])```  
+```int(a, base=b)```  
+```int(a, b)```  
 
 - **a** (optional): 数値あるいは文字列．規定値は0．
 
