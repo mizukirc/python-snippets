@@ -1,7 +1,8 @@
 ### Documentation:
 
 [sorted](https://docs.python.org/ja/3/library/functions.html#sorted)  
-[ソート HOW TO](https://docs.python.org/ja/3/howto/sorting.html)
+[ソート HOW TO](https://docs.python.org/ja/3/howto/sorting.html)  
+配列要素の並び替え
 
 ### Syntax:
 
