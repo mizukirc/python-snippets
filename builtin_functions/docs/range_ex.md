@@ -7,9 +7,9 @@
 
 ```range([a,] b [, c])```
 
-**a** (optional): sequence の開始点．数値 a は結果に含まれる．既定値は0．
-**b**: sequence の上限．数値 b は結果に含まれない．
-**c** (optional): sequence の間隔．既定値は1．
+**a** (optional): sequence の開始点．数値 a は結果に含まれる．既定値は0．　　
+**b**: sequence の上限．数値 b は結果に含まれない．　　
+**c** (optional): sequence の間隔．既定値は1．　　
 
 ### Returns:
 
