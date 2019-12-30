@@ -20,18 +20,18 @@ map
 def multiply(x):
     return x*2
 
->> l = [1, 2, 3]
->> list(map(multiply, l))
+>>> l = [1, 2, 3]
+>>> list(map(multiply, l))
 [2, 4, 6]
 
 # lambda - 無名関数 
 # syntax:
 #   lambda 入力引数:出力引数, 入力変数
->> list(map(lambda x:x*2, l))
+>>> list(map(lambda x:x*2, l))
 [2, 4, 6]
 
->> multiply = lambda x:x*2
->> list(map(multiply, l))
+>>> multiply = lambda x:x*2
+>>> list(map(multiply, l))
 [2, 4, 6]
 
 ```
