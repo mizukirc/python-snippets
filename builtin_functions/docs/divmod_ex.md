@@ -9,9 +9,9 @@
 
 ### Returns:
 
-tuple of a and b
-**a**: 商 (a // b)
-**b**: 余り (a % b)
+tuple of a and b  
+- **a**: 商 (a // b)
+- **b**: 余り (a % b)
 
 ### Example:
 
