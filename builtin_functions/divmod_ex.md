@@ -1,5 +1,5 @@
 ### Documentation:
-[divmod](https://docs.python.org/ja/3/library/functions.html#divmod)
+[divmod](https://docs.python.org/ja/3/library/functions.html#divmod)  
 商と余りを算出
 
 ### Syntax:
