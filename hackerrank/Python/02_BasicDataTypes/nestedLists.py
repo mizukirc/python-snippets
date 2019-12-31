@@ -2,7 +2,8 @@
 # https://www.hackerrank.com/challenges/nested-list/
 
 if __name__ == '__main__':
-        nested_list = []
+    nested_list = []
+
     for _ in range(int(input())):
         name = input()
         score = float(input())
@@ -11,7 +12,6 @@ if __name__ == '__main__':
         student_dict = dict(nested_list)
 
     student_dict = dict(nested_list)
-
     vals_set = sorted(set(student_dict.values()))
     second_val = list(vals_set)[1]
 
