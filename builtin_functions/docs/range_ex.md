@@ -33,4 +33,7 @@ range object
 >>>     print(i, end=', ')
 0, 1, 2, 3, 4,
 
+# create a list with range()
+>>> list(range(0,3))
+[0, 1, 2]
 ```
