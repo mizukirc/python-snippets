@@ -16,6 +16,6 @@ https://docs.python.org/ja/3/library/functions.html
 | callable()    | format()    | [len()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/len_ex.md)         | property()    | [type()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/type_ex.md)          |   
 | chr()         | frozenset() | [list()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/list_ex.md)        | [range()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/range_ex.md)       | vars()          |  
 | classmethod() | getattr()   | locals()      | repr()        | zip()           |  
-| compile()     | globals()   | [map()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/map_ex.md)         | reversed()    | __import__()    |   
+| compile()     | globals()   | [map()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/map_ex.md)         | [reversed()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/reversed_ex.md)    | __import__()    |   
 | complex()     | hasattr()   | [max()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/max_ex.md)         | round()       |                 |  
 
