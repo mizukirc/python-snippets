@@ -34,4 +34,8 @@ def multiply(x):
 >>> list(map(multiply, l))
 [2, 4, 6]
 
+>>> map(int, input().rstrip().split()))
+in> 1 4 3 2
+[1, 4, 3, 2]
+
 ```
