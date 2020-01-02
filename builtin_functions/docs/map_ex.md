@@ -34,5 +34,8 @@ def multiply(x):
 >>> list(map(multiply, l))
 # [2, 4, 6]
 
+>>> arr = list(map(int, input().rstrip().split()))
+in> 1 2 3
+# [1, 2, 3]
 
 ```
