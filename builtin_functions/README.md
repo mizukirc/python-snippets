@@ -5,7 +5,7 @@ https://docs.python.org/ja/3/library/functions.html
 |               |             |               |               |                 |  
 |---            |---          |---            |---            |---              |
 | [abs()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/abs_ex.md)         | delattr()   | hash()        | memoryview()  | [set()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/set_ex.md)           |   
-| all()         | dict()      | help()        | [min()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/min_ex.md)         | setattr()       |  
+| all()         | [dict()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/dict_ex.md)      | help()        | [min()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/min_ex.md)         | setattr()       |  
 | any()         | dir()       | hex()         | next()        | slice()         |  
 | ascii()       | [divmod()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/divmod_ex.md)    | [id()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/id_ex.md)          | object()      | [sorted()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/sorted_ex.md)        |  
 | bin()         | enumerate() | [input()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/input_ex.md)       | oct()         | staticmethod()  |  
