@@ -5,7 +5,8 @@ HackerRank Solutions implemented in Python.
 ## File name format
 - /Python/#_{category_name}/{problem_name}.py
 - /LinuxShell/#_{category_name}/{problem_name}.py
-- /30DaysOfCode/#_{problem_name}.py
+- /30DaysOfCode/#_{problem_name}.py  
+from 12/26/2019 
 
 ## Log
 |             |                     |
