@@ -8,6 +8,7 @@ HackerRank Solutions implemented in Python.
 - /30DaysOfCode/#_{problem_name}.py
 
 ## Log
+|             |                     |
 | Jan. 2020   |                     |
 | Dec. 2019   | Python 302; BASH 3  |
 | 12/26/2019  | Started             |
