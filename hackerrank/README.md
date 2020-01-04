@@ -9,6 +9,9 @@ HackerRank Solutions implemented in Python.
 from 12/26/2019 
 
 ## Log
+
+https://www.hackerrank.com/mizukirc
+
 |             |                     |
 | --          | --                  |
 | Jan. 2020   |                     |
