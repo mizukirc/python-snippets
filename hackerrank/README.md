@@ -15,6 +15,6 @@ https://www.hackerrank.com/mizukirc
 |             |                     |
 | --          | --                  |
 | Jan. 2020   |                     |
-| Dec. 2019   | Python 302; BASH 3  |
+| Dec. 2019   | Python １５０; 30DaysOfCode 120; BASH 3  |
 | 12/26/2019  | Started             |
 
