@@ -10,7 +10,7 @@ from 12/26/2019
 
 ## Log
 
-https://www.hackerrank.com/mizukirc
+<!-- https://www.hackerrank.com/mizukirc -->
 
 |             |                     |
 | --          | --                  |
