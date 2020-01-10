@@ -17,5 +17,5 @@ https://docs.python.org/ja/3/library/functions.html
 | chr()         | frozenset() | [list()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/list_ex.md)        | [range()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/range_ex.md)       | vars()          |  
 | classmethod() | getattr()   | locals()      | repr()        | [zip()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/zip_ex.md)           |  
 | compile()     | globals()   | [map()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/map_ex.md)         | [reversed()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/reversed_ex.md)    | __import__()    |   
-| complex()     | hasattr()   | [max()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/max_ex.md)         | round()       |                 |  
+| complex()     | hasattr()   | [max()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/max_ex.md)         | [round()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/round_ex.md)       |                 |  
 
