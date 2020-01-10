@@ -4,7 +4,6 @@ class Difference:
 
     def computeDifference(self):
         self.maximumDifference = max(self.__elements) - min(self.__elements)
-        return 
 
 # End of Difference class
 
