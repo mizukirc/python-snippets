@@ -1,9 +1,9 @@
-in_size = input().strip().split(' ')
+in_size = input().split()
 in_size = list(map(int, in_size))
 scores = list()
 
 for i in range(in_size[1]):
-    scores_horizontal = input().strip().split(' ')
+    scores_horizontal = input().split()
     scores_horizontal = list(map(float, scores_horizontal))
     scores.append(scores_horizontal)
     
