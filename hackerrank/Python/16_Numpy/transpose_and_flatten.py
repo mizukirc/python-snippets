@@ -1,6 +1,3 @@
-# https://www.hackerrank.com/challenges/np-transpose-and-flatten/
-#!/bin/python3
-
 import numpy
 
 in_size = input().strip().split(' ')
@@ -21,3 +18,15 @@ flatten_arr = out_arr.flatten()
 
 print(transpose_arr)
 print(flatten_arr)
+
+
+# -- another answer
+m, n= map(int, input().split())
+
+in_arr = [np.array(input().split(), int) for _ in range(m)]
+out_arr = np.reshape(in_arr, (m,n))
+
+print(np.transpose(out_arr), out_arr.flatten(), sep='\n')
+
+
+

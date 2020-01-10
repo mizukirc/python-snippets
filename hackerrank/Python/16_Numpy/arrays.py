@@ -1,6 +1,3 @@
-# https://www.hackerrank.com/challenges/np-arrays/
-#!/bin/python3
-
 import numpy
 
 def arrays(arr):
@@ -8,8 +5,7 @@ def arrays(arr):
     result = result[::-1]
     return result
 
-arr = input().strip().split(' ')
+arr = input().split()
 result = arrays(arr)
 print(result)
-
 
