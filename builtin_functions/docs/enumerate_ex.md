@@ -1,7 +1,7 @@
 ### Documentation:
 
 [enumerate](https://docs.python.org/ja/3/library/functions.html#enumerate)  
-オブジェクトの長さ
+オブジェクトと一緒にオブジェクトのインデクス番号を返す
 
 ### Syntax:
 
