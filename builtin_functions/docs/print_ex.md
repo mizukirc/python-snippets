@@ -1,13 +1,13 @@
 ### Documentation:
 
-[print](https://docs.python.org/ja/3/library/functions.html#print)  
-オブジェクトの値の表示
+[dir](https://docs.python.org/ja/3/library/functions.html#dir)  
+メソッド一覧の表示
 
 ### Syntax:
 
-```print([obj, sep='', end='n', file=sys.stdout, flus=False])```
+```dir([obj])```
 
-- **obj**: 表示させたいオブジェクト
+- **obj**: 
 
 keywords: 
 - **sep** (str): 区切り文字．既定は半角スペース
@@ -40,6 +40,11 @@ Array is sorted in 3 swaps.
 >>> print(*l, sep="|")
 1|2|3
 ```
+
+
+### Note:
+[help](https://docs.python.org/ja/3/library/functions.html#help)でもモジュール一覧を表示することができる．
+help(list)
 
 
 
