@@ -7,7 +7,7 @@
 
 ```print([obj, sep='', end='n', file=sys.stdout, flus=False])```
 
-- **obj**: sequence/iterator
+- **obj**: 表示させたいオブジェクト
 
 keywords: 
 - **sep** (str): 区切り文字．既定は半角スペース
