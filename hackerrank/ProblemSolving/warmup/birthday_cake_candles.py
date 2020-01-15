@@ -8,7 +8,7 @@ import sys
 
 # Complete the birthdayCakeCandles function below.
 def birthdayCakeCandles(ar):
-    result = len(ar) - ar.count(max(ar))
+    result = ar.count(max(ar))
     return result
 
 if __name__ == '__main__':
