@@ -4,18 +4,18 @@ https://docs.python.org/ja/3/library/functions.html
  
 |               |             |               |               |                 |  
 |---            |---          |---            |---            |---              |
-| [abs()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/abs_ex.md)         | delattr()   | [hash()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/hash_ex.md)        | memoryview()  | [set()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/set_ex.md)           |   
-| [all()](docs/all_ex.md)         | [dict()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/dict_ex.md)      | [help()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/help_ex.md)        | [min()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/min_ex.md)         | setattr()       |  
-| any()         | [dir()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/dir_ex.md)       | hex()         | next()        | slice()         |  
-| ascii()       | [divmod()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/divmod_ex.md)    | [id()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/id_ex.md)          | object()      | [sorted()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/sorted_ex.md)        |  
-| [bin()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/bin_ex.md)         | [enumerate()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/enumerate_ex.md) | [input()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/input_ex.md)       | oct()         | staticmethod()  |  
-| [bool()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/bool_ex.md)        | [eval()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/eval_ex.md)      | [int()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/int_ex.md)         | open()        | [str()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/str_ex.md)           |  
-| breakpoint()  | exec()      | isinstance()  | ord()         | [sum()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/sum_ex.md)           |  
+| [abs()](docs/abs_ex.md)         | delattr()   | [hash()](docs/hash_ex.md)        | memoryview()  | [set()](docs/set_ex.md)           |   
+| [all()](docs/all_ex.md)         | [dict()](docs/dict_ex.md)      | [help()](docs/help_ex.md)        | [min()](docs/min_ex.md)         | setattr()       |  
+| any()         | [dir()](docs/dir_ex.md)       | hex()         | next()        | slice()         |  
+| ascii()       | [divmod()](docs/divmod_ex.md)    | [id()](docs/id_ex.md)          | object()      | [sorted()](docs/sorted_ex.md)        |  
+| [bin()](docs/bin_ex.md)         | [enumerate()](docs/enumerate_ex.md) | [input()](docs/input_ex.md)       | oct()         | staticmethod()  |  
+| [bool()](docs/bool_ex.md)        | [eval()](docs/eval_ex.md)      | [int()](docs/int_ex.md)         | open()        | [str()](docs/str_ex.md)           |  
+| breakpoint()  | exec()      | isinstance()  | ord()         | [sum()](docs/sum_ex.md)           |  
 | bytearray()   | filter()    | issubclass()  | pow()         | super()         |  
-| bytes()       | [float()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/float_ex.md)     | iter()        | [print()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/print_ex.md)       | [tuple()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/tuple_ex.md)         |  
-| callable()    | format()    | [len()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/len_ex.md)         | property()    | [type()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/type_ex.md)          |   
-| chr()         | frozenset() | [list()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/list_ex.md)        | [range()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/range_ex.md)       | vars()          |  
-| classmethod() | getattr()   | locals()      | repr()        | [zip()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/zip_ex.md)           |  
-| compile()     | globals()   | [map()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/map_ex.md)         | [reversed()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/reversed_ex.md)    | __import__()    |   
-| complex()     | hasattr()   | [max()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/max_ex.md)         | [round()](https://github.com/mizukirc/python-snippets/blob/master/builtin_functions/docs/round_ex.md)       |                 |  
+| bytes()       | [float()](docs/float_ex.md)     | iter()        | [print()](docs/print_ex.md)       | [tuple()](docs/tuple_ex.md)         |  
+| callable()    | format()    | [len()](docs/len_ex.md)         | property()    | [type()](docs/type_ex.md)          |   
+| chr()         | frozenset() | [list()](docs/list_ex.md)        | [range()](docs/range_ex.md)       | vars()          |  
+| classmethod() | getattr()   | locals()      | repr()        | [zip()](docs/zip_ex.md)           |  
+| compile()     | globals()   | [map()](docs/map_ex.md)         | [reversed()](docs/reversed_ex.md)    | __import__()    |   
+| complex()     | hasattr()   | [max()](docs/max_ex.md)         | [round()](docs/round_ex.md)       |                 |  
 
