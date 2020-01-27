@@ -9,7 +9,7 @@ Syntax
 
 **%FUNC_NAME%(%IN_ARG%)**
 
-**%IN_ARG%**: 
+**%ARGIN%**: 
     %EXPLANATION%
 
 
