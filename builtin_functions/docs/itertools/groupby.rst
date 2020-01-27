@@ -6,7 +6,7 @@ itertool.groupby()
 
 Syntax
 ======
-**combinations(iter[, key=None])**
+**groupby(iter[, key=None])**
 
 **iter** 
     配列やセットなどの iterable object
