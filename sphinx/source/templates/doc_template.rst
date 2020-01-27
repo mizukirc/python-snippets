@@ -20,7 +20,7 @@ Returns
 Example
 =======
 - %EXPLANATION% :: python
-    >>> 
+    %CODE% 
     
 
 Note
