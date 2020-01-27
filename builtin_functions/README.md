@@ -19,3 +19,6 @@ https://docs.python.org/ja/3/library/functions.html
 | compile()     | globals()   | [map()](docs/map_ex.md)         | [reversed()](docs/reversed_ex.md)    | __import__()    |   
 | complex()     | hasattr()   | [max()](docs/max_ex.md)         | [round()](docs/round_ex.md)       |                 |  
 
+## modules
+[itertools](docs/itertools/) (Sphinx doc)
+
