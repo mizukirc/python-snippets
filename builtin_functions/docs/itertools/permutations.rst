@@ -16,7 +16,8 @@ Syntax
 
 Returns
 ============
-iterable object
+
+iterable object 
 
 Example
 =======
@@ -57,7 +58,8 @@ Example
 
 Note
 ====
-
+返り値は iterable object で、list() を実行することで中身を見ることができる．
+結果は tuple になっている．
 
 See Also
 ========
