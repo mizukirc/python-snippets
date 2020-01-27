@@ -6,11 +6,11 @@ itertool.permutations()
 
 Syntax
 ======
-**permutations** *(iter[, r=None])*
+**permutations(iter[, r=None])**
 
-*iter*  
+**iter** 
     配列やセットなどの iterable object
-*r*  
+**r**  
     組み合わせの数 (tuple の長さ) 
 
 
@@ -36,6 +36,23 @@ Example
     (3, 1)
     (3, 2)
 
+- b の要素をソートし、文字列のみを表示 :: python
+    >>> results = ['ABCD']
+    >>> num = 2
+    >>> results = sorted(permutations(instr, num))
+    >>> [print(*x, sep='') for x in results]    
+    AC
+    AH
+    AK
+    CA
+    CH
+    CK
+    HA
+    HC
+    HK
+    KA
+    KC
+    KH
 Note
 ====
 
