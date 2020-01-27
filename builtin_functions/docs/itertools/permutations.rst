@@ -11,7 +11,7 @@ Syntax
 **iter** 
     配列やセットなどの iterable object
 **r**  
-    組み合わせの数 (tuple の長さ) 
+    順列の数 (tuple の長さ) 
 
 
 Returns
@@ -21,6 +21,7 @@ iterable object
 Example
 =======
 - a の要素の組み合わせ tuple の list を作成 :: python
+    >>> from itertools import permutations
     >>> a = [1,2,3]
     >>> list( permutations(a, 2) )
     [(1, 2), (1, 3), (2, 1), (2, 3), (3, 1), (3, 2)]
@@ -53,9 +54,12 @@ Example
     KA
     KC
     KH
+
 Note
 ====
 
 
 See Also
 ========
+- official document
+    [itertools.permutations](https://docs.python.org/ja/3/library/itertools.html#itertools.permutations)
