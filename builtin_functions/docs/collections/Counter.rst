@@ -27,7 +27,7 @@ Example
     >>> c[5]
     2
 
--  :: python
+- 入力引数は空でも Counter object を作成可能 :: python
     >>> c = Counter()
     >>> c
     Counter()
