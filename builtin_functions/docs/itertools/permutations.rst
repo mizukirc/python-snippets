@@ -64,4 +64,4 @@ Note
 See Also
 ========
 - official document
-    [itertools.permutations](https://docs.python.org/ja/3/library/itertools.html#itertools.permutations)
+    `itertools.permutations <https://docs.python.org/ja/3/library/itertools.html#itertools.permutations>`_

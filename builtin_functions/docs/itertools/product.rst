@@ -46,5 +46,5 @@ Note
 See Also
 ========
 - official document
-    [itertools.product](https://docs.python.org/ja/3/library/itertools.html#itertools.product)
+    `itertools.product <https://docs.python.org/ja/3/library/itertools.html#itertools.product>`_
     

@@ -40,4 +40,4 @@ Note
 See Also
 ========
 - official document
-    [itertools.groupby](https://docs.python.org/3.8/library/itertools.html#itertools.groupby)
+    `itertools.groupby <https://docs.python.org/3.8/library/itertools.html#itertools.groupby>`_

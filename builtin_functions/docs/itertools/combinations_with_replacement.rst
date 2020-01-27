@@ -63,4 +63,4 @@ combinations_with_replacement は重複を許すが，combinations は重複な�
 See Also
 ========
 - official document
-    [itertools.combinations_with_replacement](https://docs.python.org/3.8/library/itertools.html#itertools.combinations_with_replacement)
+    `itertools.combinations_with_replacement <https://docs.python.org/3.8/library/itertools.html#itertools.combinations_with_replacement>`_
