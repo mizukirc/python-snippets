@@ -20,6 +20,6 @@ https://docs.python.org/ja/3/library/functions.html
 | complex()     | hasattr()   | [max()](docs/max_ex.md)         | [round()](docs/round_ex.md)       |                 |  
 
 ## Standard library (Sphinx doc)
-[itertools](docs/itertools/) 
-[collections](docs/collections/) 
+- [itertools](docs/itertools/)   
+- [collections](docs/collections/) 
 
