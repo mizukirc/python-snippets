@@ -7,7 +7,7 @@
 Syntax
 ======
 
-**%FUNC_NAME%(%IN_ARG%)**
+**%FUNC_NAME%(%ARGIN%)**
 
 **%ARGIN%**: 
     %EXPLANATION%
@@ -30,5 +30,5 @@ Note
 See Also
 ========
 - official document
-    `%PAGE_TITLE* <%URL%>`_
+    `%PAGE_TITLE%* <%URL%>`_
    
