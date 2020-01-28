@@ -11,8 +11,8 @@ if __name__ == '__main__':
 
     Args (stdin):
         int
-        str (list of numbers)
-        str (list of numbers)
+        str (list of integers)
+        str (list of integers)
 
     Returns (stdout): 
         float

@@ -11,7 +11,7 @@ if __name__ == '__main__':
 
     Args (stdin):
         int
-        str (list of numbers)
+        str (list of integers)
 
     Returns (stdout): 
         float
@@ -25,6 +25,7 @@ if __name__ == '__main__':
     '''
     N = int(input())
     X = list(map(int, input().split()))
+    print(X)
     print('%.1f'%std(X))
 
 

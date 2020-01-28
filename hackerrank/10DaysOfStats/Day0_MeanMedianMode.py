@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from stats_func import mean, median, mode
-    
+from statistics import mean, median
+from stats_func import mode
     
 if __name__ == '__main__':
     '''Day 0: Mean, Median, and Mode  
@@ -11,7 +11,7 @@ if __name__ == '__main__':
 
     Args (stdin):
         int
-        str
+        str (list of integers)
 
     Returns (stdout): 
         float
