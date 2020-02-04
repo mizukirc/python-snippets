@@ -11,7 +11,7 @@ https://docs.python.org/ja/3/library/functions.html
 | [bin()](docs/bin_ex.md)         | [enumerate()](docs/enumerate_ex.md) | [input()](docs/input_ex.md)       | [oct()](docs/oct_ex.md)          | staticmethod()  |  
 | [bool()](docs/bool_ex.md)        | [eval()](docs/eval_ex.md)      | [int()](docs/int_ex.md)         | open()        | [str()](docs/str_ex.md)           |  
 | breakpoint()  | exec()      | isinstance()  | ord()         | [sum()](docs/sum_ex.md)           |  
-| bytearray()   | [filter()](docs/filter_ex.md)    | issubclass()  | pow()         | super()         |  
+| bytearray()   | [filter()](docs/filter_ex.md)    | issubclass()  | [pow()](docs/pow_ex.md)         | super()         |  
 | bytes()       | [float()](docs/float_ex.md)     | iter()        | [print()](docs/print_ex.md)       | [tuple()](docs/tuple_ex.md)         |  
 | callable()    | [format()](docs/format_ex.md)    | [len()](docs/len_ex.md)         | property()    | [type()](docs/type_ex.md)          |   
 | chr()         | frozenset() | [list()](docs/list_ex.md)        | [range()](docs/range_ex.md)       | vars()          |  
