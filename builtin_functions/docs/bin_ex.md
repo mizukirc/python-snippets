@@ -1,13 +1,13 @@
 ### Documentation:
 
 [bin](https://docs.python.org/ja/3/library/functions.html#bin)  
-バイナリ値に変換
+整数を2進数の文字列に変換
 
 ### Syntax:
 
-```bin(a)```
+```bin(num)```
 
-- **a**: バイナリに変換したい整数値
+- **num** (int): 2進数に変換する整数値
 
 ### Returns:
 
@@ -16,9 +16,14 @@ str
 ### Example: 
 
 ```python
->>> a = 3
->>> bin(a)
-'0b11'
+>>> bin(30)
+'0b11110'
+
+>>> format(30, '#b')
+'0b11110'
+
+>>> format(30, 'b')
+'11110'
 ```
 
 ### Note:
