@@ -1,15 +1,37 @@
-'''
-poisson
-geometric
-factorial
-combination 
-binomial
-weighted_mean
-std
-mode
-'''
-from math import sqrt    
+from math import sqrt, exp, pi, erf
 from statistics import mean
+
+def cdf(x, mu, sigma):
+    """
+    Cumulative distribution function for a function with normal distribution
+    
+    Args:      
+        x (int/float): the value to evaluate the normal distribution
+        mu (int/float): mean (or expectation) of the distribution; equal to median and mode of the dist.
+        sigma (int/float): standard deviation ($sigma^2$ is the variance)
+    Returns:
+        float: the cumulative density function (cdf) of the standard normal distribution with mean mu and standard deviation sigma, evaluated at the values in x 
+    
+    Example:
+    >>> cdf(1, 0, 1)
+    0.24
+    """        
+    return (1 + erf((x - mu) / (sigma * sqrt(2)))) / 2
+
+def normal(x, mu, sigma):
+    """
+    Args:      
+        x (int/float): the value to evaluate the normal distribution
+        mu (int/float): mean (or expectation) of the distribution; equal to median and mode of the dist.
+        sigma (int/float): standard deviation ($sigma^2$ is the variance)
+    Returns:
+        float: the probability density function (pdf) of the standard normal distribution with mean mu and standard deviation sigma, evaluated at the values in x 
+    
+    Example:
+    >>> normal(1, 0, 1)
+    0.24
+    """        
+    return (exp(- (x-mu)**2 / (2*sigma**2))) / (sigma*sqrt(2*pi))
 
 def poisson(l, k):
     """
