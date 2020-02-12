@@ -16,7 +16,7 @@ HackerRank Solutions implemented in Python.
 |             |                     |
 | --          | --                  |
 | Feb. 2020   |                     |
-| Jan. 2020   | Python 61/115; 30DaysOfCode 30/30; LinuxShell 17; ProblemSolving 10; 10DaysOfStats 10/20; SQL 20 |
+| Jan. 2020   | Python 61/115; 30DaysOfCode 30/30; LinuxShell 17; ProblemSolving 10; 10DaysOfStats 10/27; SQL 20 |
 | Dec. 2019   | Python 12/115; 30DaysOfCode 6/30; LinuxShell 3  |
 | 12/26/2019  | Started             |
 
